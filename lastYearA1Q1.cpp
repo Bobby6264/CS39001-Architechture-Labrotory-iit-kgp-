@@ -1,3 +1,6 @@
+/*writing Mips code for sum of digits of a positive number, if the user gives an negative number , then throw an message*/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
