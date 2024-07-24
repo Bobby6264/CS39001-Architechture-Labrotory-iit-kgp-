@@ -1,3 +1,6 @@
+#write a MIPS32 code for taking an input number n , and then calculate all the prime factorials of a number.
+
+
 .text
 
 main:
